@@ -1,10 +1,10 @@
 {
 	"homepage": "https://visualvm.github.io/",
 	"license": "https://visualvm.github.io/gplv2+ce.html",
-	"version": "1.4.1",
-	"url": "https://github.com/visualvm/visualvm.src/releases/download/1.4.1/visualvm_141.zip",
-	"hash": "SHA256:cb7d98b514c8448cffaf0f453f2dd257cbcc3b84bf51e6d43145ae706fa726b8",
-	"extract_dir": "visualvm_141",
+	"version": "1.4.3",
+	"url": "https://github.com/visualvm/visualvm.src/releases/download/1.4.3/visualvm_143.zip",
+	"hash": "SHA256:f8ade2faf64b452e540a894f4293da070aa369ddcb707c1b34f8b7cb647d51dc",
+	"extract_dir": "visualvm_143",
 	"bin": [
 		[
 			"bin\\visualvm.exe",
